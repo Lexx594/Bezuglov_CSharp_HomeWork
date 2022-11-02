@@ -1,0 +1,11 @@
+D:\C#\Уроки\HomeWork8\Reflection\bin\Debug\Reflection.exe.config
+D:\C#\Уроки\HomeWork8\Reflection\bin\Debug\Reflection.exe
+D:\C#\Уроки\HomeWork8\Reflection\bin\Debug\Reflection.pdb
+D:\C#\Уроки\HomeWork8\Reflection\obj\Debug\Reflection.csproj.AssemblyReference.cache
+D:\C#\Уроки\HomeWork8\Reflection\obj\Debug\Reflection.csproj.SuggestedBindingRedirects.cache
+D:\C#\Уроки\HomeWork8\Reflection\obj\Debug\Reflection.csproj.CoreCompileInputs.cache
+D:\C#\Уроки\HomeWork8\Reflection\obj\Debug\Reflection.exe
+D:\C#\Уроки\HomeWork8\Reflection\obj\Debug\Reflection.pdb
+D:\C#\Уроки\HomeWork8\Reflection\bin\Debug\Lexx.Utils.dll
+D:\C#\Уроки\HomeWork8\Reflection\bin\Debug\Lexx.Utils.pdb
+D:\C#\Уроки\HomeWork8\Reflection\obj\Debug\Reflection.csproj.CopyComplete

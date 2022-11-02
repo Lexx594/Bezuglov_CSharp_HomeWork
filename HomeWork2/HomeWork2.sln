@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork2", "HomeWork2\HomeWork2.csproj", "{091AFC1B-C070-4DE6-A2C6-A1BA5D272397}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lexx.Utils", "Lexx.Utils\Lexx.Utils.csproj", "{0A0CD177-CC87-4DD6-9B77-D24A059B20D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{091AFC1B-C070-4DE6-A2C6-A1BA5D272397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{091AFC1B-C070-4DE6-A2C6-A1BA5D272397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{091AFC1B-C070-4DE6-A2C6-A1BA5D272397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{091AFC1B-C070-4DE6-A2C6-A1BA5D272397}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A0CD177-CC87-4DD6-9B77-D24A059B20D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0CD177-CC87-4DD6-9B77-D24A059B20D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0CD177-CC87-4DD6-9B77-D24A059B20D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0CD177-CC87-4DD6-9B77-D24A059B20D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0840E2A-2F04-4FFB-9132-4B996DB4AE25}
+	EndGlobalSection
+EndGlobal

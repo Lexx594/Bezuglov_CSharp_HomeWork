@@ -1,0 +1,13 @@
+D:\C#\Уроки\HomeWork6\HomeWork6\bin\Debug\UserList.txt
+D:\C#\Уроки\HomeWork6\HomeWork6\bin\Debug\HomeWork6.exe.config
+D:\C#\Уроки\HomeWork6\HomeWork6\bin\Debug\HomeWork6.exe
+D:\C#\Уроки\HomeWork6\HomeWork6\bin\Debug\HomeWork6.pdb
+D:\C#\Уроки\HomeWork6\HomeWork6\obj\Debug\HomeWork6.csproj.AssemblyReference.cache
+D:\C#\Уроки\HomeWork6\HomeWork6\obj\Debug\HomeWork6.csproj.SuggestedBindingRedirects.cache
+D:\C#\Уроки\HomeWork6\HomeWork6\obj\Debug\HomeWork6.csproj.CoreCompileInputs.cache
+D:\C#\Уроки\HomeWork6\HomeWork6\obj\Debug\HomeWork6.exe
+D:\C#\Уроки\HomeWork6\HomeWork6\obj\Debug\HomeWork6.pdb
+D:\C#\Уроки\HomeWork6\HomeWork6\bin\Debug\Lexx.Utils.dll
+D:\C#\Уроки\HomeWork6\HomeWork6\bin\Debug\Lexx.Utils.pdb
+D:\C#\Уроки\HomeWork6\HomeWork6\obj\Debug\HomeWork6.csproj.CopyComplete
+D:\C#\Уроки\HomeWork6\HomeWork6\bin\Debug\students_6.csv

@@ -1,0 +1,11 @@
+D:\C#\Уроки\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.AssemblyReference.cache
+D:\C#\Уроки\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.SuggestedBindingRedirects.cache
+D:\C#\Уроки\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.CoreCompileInputs.cache
+D:\C#\Уроки\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe.config
+D:\C#\Уроки\HomeWork3\HomeWork3\bin\Debug\HomeWork3.exe
+D:\C#\Уроки\HomeWork3\HomeWork3\bin\Debug\HomeWork3.pdb
+D:\C#\Уроки\HomeWork3\HomeWork3\bin\Debug\Lexx.Utils.dll
+D:\C#\Уроки\HomeWork3\HomeWork3\bin\Debug\Lexx.Utils.pdb
+D:\C#\Уроки\HomeWork3\HomeWork3\obj\Debug\HomeWork3.csproj.CopyComplete
+D:\C#\Уроки\HomeWork3\HomeWork3\obj\Debug\HomeWork3.exe
+D:\C#\Уроки\HomeWork3\HomeWork3\obj\Debug\HomeWork3.pdb

@@ -1,0 +1,12 @@
+D:\C#\Уроки\HomeWork5\HomeWork5\bin\Debug\HomeWork5.exe.config
+D:\C#\Уроки\HomeWork5\HomeWork5\bin\Debug\HomeWork5.exe
+D:\C#\Уроки\HomeWork5\HomeWork5\bin\Debug\HomeWork5.pdb
+D:\C#\Уроки\HomeWork5\HomeWork5\obj\Debug\HomeWork5.csproj.AssemblyReference.cache
+D:\C#\Уроки\HomeWork5\HomeWork5\obj\Debug\HomeWork5.csproj.SuggestedBindingRedirects.cache
+D:\C#\Уроки\HomeWork5\HomeWork5\obj\Debug\HomeWork5.csproj.CoreCompileInputs.cache
+D:\C#\Уроки\HomeWork5\HomeWork5\obj\Debug\HomeWork5.exe
+D:\C#\Уроки\HomeWork5\HomeWork5\obj\Debug\HomeWork5.pdb
+D:\C#\Уроки\HomeWork5\HomeWork5\bin\Debug\LogPas.txt
+D:\C#\Уроки\HomeWork5\HomeWork5\bin\Debug\Lexx.Utils.dll
+D:\C#\Уроки\HomeWork5\HomeWork5\bin\Debug\Lexx.Utils.pdb
+D:\C#\Уроки\HomeWork5\HomeWork5\obj\Debug\HomeWork5.csproj.CopyComplete

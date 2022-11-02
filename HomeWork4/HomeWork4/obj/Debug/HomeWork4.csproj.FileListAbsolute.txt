@@ -1,0 +1,13 @@
+D:\C#\Уроки\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe.config
+D:\C#\Уроки\HomeWork4\HomeWork4\bin\Debug\HomeWork4.exe
+D:\C#\Уроки\HomeWork4\HomeWork4\bin\Debug\HomeWork4.pdb
+D:\C#\Уроки\HomeWork4\HomeWork4\bin\Debug\Lexx.Utils.dll
+D:\C#\Уроки\HomeWork4\HomeWork4\bin\Debug\Lexx.Utils.pdb
+D:\C#\Уроки\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.AssemblyReference.cache
+D:\C#\Уроки\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.SuggestedBindingRedirects.cache
+D:\C#\Уроки\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.CoreCompileInputs.cache
+D:\C#\Уроки\HomeWork4\HomeWork4\obj\Debug\HomeWork4.csproj.CopyComplete
+D:\C#\Уроки\HomeWork4\HomeWork4\obj\Debug\HomeWork4.exe
+D:\C#\Уроки\HomeWork4\HomeWork4\obj\Debug\HomeWork4.pdb
+D:\C#\Уроки\HomeWork4\HomeWork4\bin\Debug\MyArray.txt
+D:\C#\Уроки\HomeWork4\HomeWork4\bin\Debug\LogPas.txt

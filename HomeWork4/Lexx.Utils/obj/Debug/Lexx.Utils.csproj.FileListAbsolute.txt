@@ -1,0 +1,6 @@
+D:\C#\Уроки\HomeWork4\Lexx.Utils\bin\Debug\Lexx.Utils.dll
+D:\C#\Уроки\HomeWork4\Lexx.Utils\bin\Debug\Lexx.Utils.pdb
+D:\C#\Уроки\HomeWork4\Lexx.Utils\obj\Debug\Lexx.Utils.csproj.AssemblyReference.cache
+D:\C#\Уроки\HomeWork4\Lexx.Utils\obj\Debug\Lexx.Utils.csproj.CoreCompileInputs.cache
+D:\C#\Уроки\HomeWork4\Lexx.Utils\obj\Debug\Lexx.Utils.dll
+D:\C#\Уроки\HomeWork4\Lexx.Utils\obj\Debug\Lexx.Utils.pdb
